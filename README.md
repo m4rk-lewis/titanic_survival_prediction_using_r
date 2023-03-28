@@ -1,5 +1,5 @@
 Titanic Survival Prediction Using Radial Basis Function Support Vector
-Machines, Linear Support Vector Machines, Random Forest, Decision Tree,
+Machines, Linear Support Vector Machines, Random Forest, Decision Tree and
 Linear Regression
 ================
 
